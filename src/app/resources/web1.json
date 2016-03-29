@@ -1,0 +1,618 @@
+[
+  {
+    "nombre": "Diseño Web paralelo 1",
+    "alumnos": [
+      {
+        "id": 1,
+        "Nombre": "Adriana",
+        "Apellidos": "Sanabria",
+        "participacion": 0
+      },
+      {
+        "id": 2,
+        "Nombre": "Alejandra",
+        "Apellidos": "Zegarra",
+        "participacion": 0
+      },
+      {
+        "id": 3,
+        "Nombre": "Andrea",
+        "Apellidos": "Del Castillo",
+        "participacion": 0
+      },
+      {
+        "id": 4,
+        "Nombre": "Andres",
+        "Apellidos": "Ardaya",
+        "participacion": 0
+      },
+      {
+        "id": 5,
+        "Nombre": "Andres",
+        "Apellidos": "Mamani",
+        "participacion": 0
+      },
+      {
+        "id": 6,
+        "Nombre": "Daniela",
+        "Apellidos": "Aparicio",
+        "participacion": 0
+      },
+      {
+        "id": 7,
+        "Nombre": "Gabriel",
+        "Apellidos": "Gutierrez",
+        "participacion": 0
+      },
+      {
+        "id": 8,
+        "Nombre": "Georgina",
+        "Apellidos": "Rojas",
+        "participacion": 0
+      },
+      {
+        "id": 9,
+        "Nombre": "Iby",
+        "Apellidos": "Viscarra",
+        "participacion": 0
+      },
+      {
+        "id": 10,
+        "Nombre": "Jhoselyn",
+        "Apellidos": "Del Villar",
+        "participacion": 0
+      },
+      {
+        "id": 11,
+        "Nombre": "Joan",
+        "Apellidos": "Lopez",
+        "participacion": 0
+      },
+      {
+        "id": 12,
+        "Nombre": "Joseph",
+        "Apellidos": "Flores",
+        "participacion": 0
+      },
+      {
+        "id": 13,
+        "Nombre": "Luciana",
+        "Apellidos": "Medina",
+        "participacion": 0
+      },
+      {
+        "id": 14,
+        "Nombre": "Nancy",
+        "Apellidos": "Villa",
+        "participacion": 0
+      },
+      {
+        "id": 15,
+        "Nombre": "Natalia",
+        "Apellidos": "Garcia",
+        "participacion": 0
+      },
+      {
+        "id": 16,
+        "Nombre": "Raquel",
+        "Apellidos": "Aparicio",
+        "participacion": 0
+      },
+      {
+        "id": 17,
+        "Nombre": "Ricardo",
+        "Apellidos": "Pinell",
+        "participacion": 0
+      },
+      {
+        "id": 18,
+        "Nombre": "Rodrigo",
+        "Apellidos": "Canestrasi",
+        "participacion": 0
+      }
+    ]
+  },
+  {
+    "nombre": "Diseño Web paralelo 2",
+    "alumnos": [
+      {
+        "id": 1,
+        "Nombre": "Adriana",
+        "Apellidos": "Sanabria",
+        "participacion": 0
+      },
+      {
+        "id": 2,
+        "Nombre": "Ana Pamela",
+        "Apellidos": "Rojas",
+        "participacion": 0
+      },
+      {
+        "id": 3,
+        "Nombre": "Ana Rosa",
+        "Apellidos": "Jimenez",
+        "participacion": 0
+      },
+      {
+        "id": 4,
+        "Nombre": "Armin",
+        "Apellidos": "Mostajo",
+        "participacion": 0
+      },
+      {
+        "id": 5,
+        "Nombre": "Camila",
+        "Apellidos": "Perez",
+        "participacion": 0
+      },
+      {
+        "id": 6,
+        "Nombre": "Cecilia",
+        "Apellidos": "Bustillos",
+        "participacion": 0
+      },
+      {
+        "id": 7,
+        "Nombre": "Dalma",
+        "Apellidos": "Copa",
+        "participacion": 0
+      },
+      {
+        "id": 8,
+        "Nombre": "Eduardo",
+        "Apellidos": "Requena",
+        "participacion": 0
+      },
+      {
+        "id": 9,
+        "Nombre": "Emma",
+        "Apellidos": "Sanchez",
+        "participacion": 0
+      },
+      {
+        "id": 10,
+        "Nombre": "Fabian",
+        "Apellidos": "Moreno",
+        "participacion": 0
+      },
+      {
+        "id": 11,
+        "Nombre": "Gianio Emanuel",
+        "Apellidos": "Reyes",
+        "participacion": 0
+      },
+      {
+        "id": 12,
+        "Nombre": "Jessica",
+        "Apellidos": "Romero",
+        "participacion": 0
+      },
+      {
+        "id": 13,
+        "Nombre": "Karen",
+        "Apellidos": "Velasco",
+        "participacion": 0
+      },
+      {
+        "id": 14,
+        "Nombre": "Lucas",
+        "Apellidos": "Crespo",
+        "participacion": 0
+      },
+      {
+        "id": 15,
+        "Nombre": "Marcelo",
+        "Apellidos": "Blacutt",
+        "participacion": 0
+      },
+      {
+        "id": 16,
+        "Nombre": "Mariana",
+        "Apellidos": "Bolivar",
+        "participacion": 0
+      },
+      {
+        "id": 17,
+        "Nombre": "Mayra",
+        "Apellidos": "Schmidt",
+        "participacion": 0
+      },
+      {
+        "id": 18,
+        "Nombre": "Mayte",
+        "Apellidos": "Velasco",
+        "participacion": 0
+      },
+      {
+        "id": 19,
+        "Nombre": "Michelle",
+        "Apellidos": "Celis",
+        "participacion": 0
+      },
+      {
+        "id": 20,
+        "Nombre": "Moira",
+        "Apellidos": "Mattos",
+        "participacion": 0
+      },
+      {
+        "id": 21,
+        "Nombre": "Naydi",
+        "Apellidos": "Trujillo",
+        "participacion": 0
+      },
+      {
+        "id": 22,
+        "Nombre": "Pamela",
+        "Apellidos": "Manriquez",
+        "participacion": 0
+      },
+      {
+        "id": 23,
+        "Nombre": "Paola",
+        "Apellidos": "Centellas",
+        "participacion": 0
+      },
+      {
+        "id": 24,
+        "Nombre": "Raymi",
+        "Apellidos": "Valda",
+        "participacion": 0
+      },
+      {
+        "id": 25,
+        "Nombre": "Ricardo",
+        "Apellidos": "Chavarria",
+        "participacion": 0
+      },
+      {
+        "id": 26,
+        "Nombre": "Rodolfo",
+        "Apellidos": "Benavides",
+        "participacion": 0
+      },
+      {
+        "id": 27,
+        "Nombre": "Sebastian",
+        "Apellidos": "Salinas",
+        "participacion": 0
+      },
+      {
+        "id": 28,
+        "Nombre": "Valentina",
+        "Apellidos": "Delgado",
+        "participacion": 0
+      }
+    ]
+  },
+  {
+    "nombre": "Técnicas 3 paralelo 1",
+    "alumnos": [
+      {
+        "id": 1,
+        "Nombre": "Alejandra",
+        "Apellidos": "Salazar",
+        "participacion": 0
+      },
+      {
+        "id": 2,
+        "Nombre": "Alvaro",
+        "Apellidos": "Mercado",
+        "participacion": 0
+      },
+      {
+        "id": 3,
+        "Nombre": "Alvaro",
+        "Apellidos": "Moscoso",
+        "participacion": 0
+      },
+      {
+        "id": 4,
+        "Nombre": "Andrea",
+        "Apellidos": "Villan",
+        "participacion": 0
+      },
+      {
+        "id": 5,
+        "Nombre": "Geraldine",
+        "Apellidos": "Suarez",
+        "participacion": 0
+      },
+      {
+        "id": 6,
+        "Nombre": "Gilbert",
+        "Apellidos": "Calderon",
+        "participacion": 0
+      },
+      {
+        "id": 7,
+        "Nombre": "Helen",
+        "Apellidos": "Machicado",
+        "participacion": 0
+      },
+      {
+        "id": 8,
+        "Nombre": "Joaquin",
+        "Apellidos": "Trigoso",
+        "participacion": 0
+      },
+      {
+        "id": 9,
+        "Nombre": "Marcelo",
+        "Apellidos": "Blacutt",
+        "participacion": 0
+      },
+      {
+        "id": 10,
+        "Nombre": "Maria Belen",
+        "Apellidos": "Mercado",
+        "participacion": 0
+      },
+      {
+        "id": 11,
+        "Nombre": "Maria Eugenia",
+        "Apellidos": "Vidaurre",
+        "participacion": 0
+      },
+      {
+        "id": 12,
+        "Nombre": "Mariana",
+        "Apellidos": "Rojas",
+        "participacion": 0
+      },
+      {
+        "id": 13,
+        "Nombre": "Pablo",
+        "Apellidos": "Wieler",
+        "participacion": 0
+      },
+      {
+        "id": 14,
+        "Nombre": "Pamela",
+        "Apellidos": "Rojas",
+        "Presente": 9,
+        "Ausente": 1,
+        "Total": 10
+      },
+      {
+        "id": 15,
+        "Nombre": "Paola",
+        "Apellidos": "Calderon",
+        "participacion": 0
+      },
+      {
+        "id": 16,
+        "Nombre": "Raul",
+        "Apellidos": "Claros",
+        "participacion": 0
+      },
+      {
+        "id": 17,
+        "Nombre": "Victoria",
+        "Apellidos": "Beltran",
+        "participacion": 0
+      },
+      {
+        "id": 18,
+        "Nombre": "Ximena",
+        "Apellidos": "Aliaga",
+        "participacion": 0
+      }
+    ]
+  },
+  {
+    "nombre": "Técnicas 3 paralelo 2",
+    "alumnos": [
+      {
+        "id": 1,
+        "Nombre": "Arturo",
+        "Apellidos": "Carrasco",
+        "participacion": 0
+
+      },
+      {
+        "id": 2,
+        "Nombre": "Barbara",
+        "Apellidos": "Prado",
+        "participacion": 0
+
+      },
+      {
+        "id": 3,
+        "Nombre": "Carla",
+        "Apellidos": "Ibañez",
+        "participacion": 0
+
+      },
+      {
+        "id": 4,
+        "Nombre": "Cesar",
+        "Apellidos": "Herrera",
+        "participacion": 0
+
+      },
+      {
+        "id": 5,
+        "Nombre": "Cesia",
+        "Apellidos": "Beltran",
+        "participacion": 0
+
+      },
+      {
+        "id": 6,
+        "Nombre": "Christian",
+        "Apellidos": "Flores",
+        "participacion": 0
+
+      },
+      {
+        "id": 7,
+        "Nombre": "Cinthia",
+        "Apellidos": "Cossio",
+        "participacion": 0
+
+      },
+      {
+        "id": 1,
+        "Nombre": "Cristian",
+        "Apellidos": "Mendoza",
+        "participacion": 0
+
+      },
+      {
+        "id": 8,
+        "Nombre": "Danezka",
+        "Apellidos": "Villagomez",
+        "participacion": 0
+
+      },
+      {
+        "id": 9,
+        "Nombre": "Daniela",
+        "Apellidos": "Castellon",
+        "participacion": 0
+
+      },
+      {
+        "id": 10,
+        "Nombre": "Flavia",
+        "Apellidos": "Zavala",
+        "participacion": 0
+
+      },
+      {
+        "id": 11,
+        "Nombre": "Grethel",
+        "Apellidos": "Del Villar",
+        "participacion": 0
+
+      },
+      {
+        "id": 12,
+        "Nombre": "Gustavo",
+        "Apellidos": "Laruta",
+        "participacion": 0
+
+      },
+      {
+        "id": 13,
+        "Nombre": "Josue",
+        "Apellidos": "Zuna",
+        "participacion": 0
+
+      },
+      {
+        "id": 14,
+        "Nombre": "Justo",
+        "Apellidos": "Mamani",
+        "participacion": 0
+
+      },
+      {
+        "id": 15,
+        "Nombre": "Laura",
+        "Apellidos": "Exckerstorfer",
+        "participacion": 0
+
+      },
+      {
+        "id": 16,
+        "Nombre": "Lesly",
+        "Apellidos": "Zabala",
+        "participacion": 0
+
+      },
+      {
+        "id": 17,
+        "Nombre": "Mariel",
+        "Apellidos": "Salcedo",
+        "participacion": 0
+
+      },
+      {
+        "id": 18,
+        "Nombre": "Minka",
+        "Apellidos": "De La Zerda",
+        "participacion": 0
+
+      },
+      {
+        "id": 19,
+        "Nombre": "Moises",
+        "Apellidos": "Condori",
+        "participacion": 0
+
+      },
+      {
+        "id": 20,
+        "Nombre": "Nathaly",
+        "Apellidos": "Rodriguez",
+        "participacion": 0
+
+      },
+      {
+        "id": 21,
+        "Nombre": "Pablo",
+        "Apellidos": "Sanchez",
+        "participacion": 0
+
+      },
+      {
+        "id": 22,
+        "Nombre": "Patricia",
+        "Apellidos": "Cotaña",
+        "participacion": 0
+
+      },
+      {
+        "id": 23,
+        "Nombre": "Rafael",
+        "Apellidos": "Quinteros",
+        "participacion": 0
+
+      },
+      {
+        "id": 24,
+        "Nombre": "Tamia",
+        "Apellidos": "Ulcuango",
+        "participacion": 0
+
+      },
+      {
+        "id": 25,
+        "Nombre": "Tayra",
+        "Apellidos": "Maquera",
+        "participacion": 0
+
+      },
+      {
+        "id": 26,
+        "Nombre": "Tresia",
+        "Apellidos": "Ramos",
+        "participacion": 0
+
+      },
+      {
+        "id": 27,
+        "Nombre": "Valeria",
+        "Apellidos": "Fernandez",
+        "participacion": 0
+
+      },
+      {
+        "id": 28,
+        "Nombre": "Valeria",
+        "Apellidos": "Fernandez",
+        "participacion": 0
+
+      },
+      {
+        "id": 29,
+        "Nombre": "Valeria",
+        "Apellidos": "Vidaurre",
+        "participacion": 0
+
+      }
+    ]
+  }
+]

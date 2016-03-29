@@ -1,1 +1,11 @@
-<h2>Este es el curso</h2>
+<h2>{{curso.titulo}}</h2>
+<a class="btn btn-default" href="/" >Volver</a>
+<ul class="list-unstyled" >
+  <li class="btn-group" ng-repeat="item in curso.lista">
+      <a href="#/curso/{{curso.curso}}/{{item.id}}" class="btn btn-default btn-block nombre">{{item.Nombre}} {{item.Apellidos}}
+      </a>
+
+      <button class="btn btn-primary" ng-click="curso.suma();"><span class="glyphicon glyphicon-plus"></span></button>
+      <button class="btn btn-primary" ng-click="curso.resta();"><span class="glyphicon glyphicon-minus"></span></button>
+    </li>
+</ul>

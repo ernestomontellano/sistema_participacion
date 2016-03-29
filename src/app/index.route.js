@@ -20,6 +20,12 @@
         controller: 'CursoController',
         controllerAs: 'curso'
       })
+      .state('alumno',{
+        url:'/curso/:cursoId/:alumnoId',
+        templateUrl:'app/views/alumno.html',
+        controller:'AlumnoController',
+        controllerAs:'alumno'
+      })
     ;
 
     $urlRouterProvider.otherwise('/');
